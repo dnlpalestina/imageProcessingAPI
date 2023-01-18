@@ -1,4 +1,4 @@
-package com.globant.teamsix.models.enums;
+package com.palestina.imageProcessingAPI.models.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
